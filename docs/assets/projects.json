@@ -1,14 +1,14 @@
 [
     {
         "image": "https://raw.githubusercontent.com/AntoineSchmidt/a_star/main/icon.png",
-        "link": "https://github.com/AntoineSchmidt/a_star",
+        "link": "https://antoineschmidt.github.io/a_star",
         "title": "A* pathfinder",
         "description": "Interactive live demo to find pathes through self drawn obstacles",
         "tags": ["Javascript", "HTML", "CSS"] 
     },
     {
         "image": "https://raw.githubusercontent.com/AntoineSchmidt/star_runner/main/media/player.png",
-        "link": "https://github.com/AntoineSchmidt/star_runner",
+        "link": "https://antoineschmidt.github.io/star_runner",
         "title": "Star Runner game remake",
         "description": "Flash-Game remake as pure JavaScript browser game",
         "tags": ["Javascript", "JQuery", "HTML"] 
@@ -78,9 +78,9 @@
     },
     {
         "image": "https://raw.githubusercontent.com/AntoineSchmidt/web_diary/main/icon.png",
-        "link": "https://github.com/AntoineSchmidt/web_diary",
+        "link": "https://antoineschmidt.github.io/web_diary",
         "title": "Diary Web-App",
         "description": "Web-App to save camera images with description and GPS location",
-        "tags": ["Vue", "TypeScript", "Camera", "GPS", "LocalDB", "Vue Router"] 
+        "tags": ["Vue", "JavaScript", "Camera", "GPS", "LocalDB", "Vue Router"] 
     }
 ]
