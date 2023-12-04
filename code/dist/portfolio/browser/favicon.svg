@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0998546"
+     inkscape:cx="570.98456"
+     inkscape:cy="403.23512"
+     inkscape:window-width="3840"
+     inkscape:window-height="2068"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="48.861109"
+       y="180.01461"
+       width="173.24548"
+       height="101.27942"
+       id="rect961" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(1.1394276,0,0,1.1394276,-53.142238,-163.3777)"
+       id="text959"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:40px;line-height:125%;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold Condensed';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect961);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+         x="48.861328"
+         y="216.77148"
+         id="tspan5813"><tspan
+           style="font-stretch:normal;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+           id="tspan5811">Antoine
+</tspan></tspan><tspan
+         x="48.861328"
+         y="267.44049"
+         id="tspan5817"><tspan
+           style="font-stretch:normal;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+           id="tspan5815">Schmidt</tspan></tspan></text>
+  </g>
+</svg>

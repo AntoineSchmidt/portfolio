@@ -1,0 +1,86 @@
+[
+    {
+        "image": "https://raw.githubusercontent.com/AntoineSchmidt/a_star/main/icon.png",
+        "link": "https://github.com/AntoineSchmidt/a_star",
+        "title": "A* pathfinder",
+        "description": "Interactive live demo to find pathes through self drawn obstacles",
+        "tags": ["Javascript", "HTML", "CSS"] 
+    },
+    {
+        "image": "https://raw.githubusercontent.com/AntoineSchmidt/star_runner/main/media/player.png",
+        "link": "https://github.com/AntoineSchmidt/star_runner",
+        "title": "Star Runner game remake",
+        "description": "Flash-Game remake as pure JavaScript browser game",
+        "tags": ["Javascript", "JQuery", "HTML"] 
+    },
+    {
+        "image": "https://raw.githubusercontent.com/AntoineSchmidt/lattice_boltzmann/main/icon.png",
+        "link": "https://github.com/AntoineSchmidt/lattice_boltzmann",
+        "title": "Lattice Boltzmann fluid simulation",
+        "description": "Fluid Simulation in closed container with moving top",
+        "tags": ["Python", "MPI", "Matplotlib", "Jupyter", "HPC", "NumPy"] 
+    },
+    {
+        "image": "https://raw.githubusercontent.com/AntoineSchmidt/dqn_gym/main/media/anim_b.gif",
+        "link": "https://github.com/AntoineSchmidt/dqn_gym",
+        "title": "Deep Q-Network (Reinforcement learning)",
+        "description": "Using DQN to solve Gym problems",
+        "tags": ["Python", "Tensorflow", "TensorBoard", "Tensorflow GPU", "Gym"] 
+    },
+    {
+        "image": "https://raw.githubusercontent.com/AntoineSchmidt/gumbel_softmax/main/icon.png",
+        "link": "https://github.com/AntoineSchmidt/gumbel_softmax",
+        "title": "Automatic rule learning with ML autoencoder",
+        "description": "Planning Peg based on images using the Gumbel-Softmax Autoencoder",
+        "tags": ["Python", "Keras", "Autoencoder", "Custom loss"] 
+    },
+    {
+        "image": "https://raw.githubusercontent.com/AntoineSchmidt/airsim_car/main/icon.png",
+        "link": "https://github.com/AntoineSchmidt/airsim_car",
+        "title": "Imitation and reinforcement learning",
+        "description": "Using imitation and reinforcement learning to drive a car in AirSim",
+        "tags": ["Python", "Keras", "Deep Learning", "PPO", "AirSim"] 
+    },
+    {
+        "image": "https://raw.githubusercontent.com/AntoineSchmidt/tooth_app/main/icon.png",
+        "link": "https://github.com/AntoineSchmidt/tooth_app",
+        "title": "Brushed tooth detection",
+        "description": "Android-App to detect the brushed tooth and surface",
+        "tags": ["Java", "Android Studio", "Open CV", "Face detection", "SQLite"]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/AntoineSchmidt/cellular_automata/main/media/anim_a.gif",
+        "link": "https://github.com/AntoineSchmidt/cellular_automata",
+        "title": "Cell simulation",
+        "description": "Self-reproduction with cellular automata",
+        "tags": ["C++", "SDL", "Boosted", "Multithreading"] 
+    },
+    {
+        "image": "https://raw.githubusercontent.com/AntoineSchmidt/sokoban_planner/main/media/sokoban.gif",
+        "link": "https://github.com/AntoineSchmidt/sokoban_planner",
+        "title": "Sokoban game planner",
+        "description": "Applying policy-guided planning to sokoban",
+        "tags": ["Python", "Keras", "DQN", "PPO", "Monte Carlo", "CNN"] 
+    },
+    {
+        "image": "https://raw.githubusercontent.com/AntoineSchmidt/mastermind/main/icon.png",
+        "link": "https://github.com/AntoineSchmidt/mastermind",
+        "title": "Solve Mastermind",
+        "description": "Improved algorithm to solve mastermind games optimaly",
+        "tags": ["Python", "NumPy"] 
+    },
+    {
+        "image": "https://raw.githubusercontent.com/AntoineSchmidt/portfolio/main/icon.png",
+        "link": "https://github.com/AntoineSchmidt/portfolio",
+        "title": "This website",
+        "description": "Portfolio website with Angular",
+        "tags": ["Angular", "TypeScript", "Angular Services", "HTML", "CSS"] 
+    },
+    {
+        "image": "https://raw.githubusercontent.com/AntoineSchmidt/web_diary/main/icon.png",
+        "link": "https://github.com/AntoineSchmidt/web_diary",
+        "title": "Diary Web-App",
+        "description": "Web-App to save camera images with description and GPS location",
+        "tags": ["Vue", "TypeScript", "Camera", "GPS", "LocalDB", "Vue Router"] 
+    }
+]

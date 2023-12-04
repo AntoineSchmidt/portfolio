@@ -1,0 +1,24 @@
+.row {
+  background-color: whitesmoke;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  justify-content: center;
+  height: 20rem;
+}
+img {
+  height: 100%;
+  width: auto;
+}
+h1 {
+    font-size: xxx-large;
+}
+ul {
+    list-style-type: '>';
+    padding-left: 15px;
+}
+li {
+    padding-left: 2px;
+}
+span {
+    color: gray;
+}

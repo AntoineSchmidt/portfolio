@@ -1,0 +1,16 @@
+<div class="pad">
+    <mat-form-field>
+        <input matInput type="text" placeholder="Search" [(ngModel)]="searchterm" (keyup)="filter()">
+        @if (searchterm) {
+            <button matSuffix mat-flat-button aria-label="Clear" (click)="searchterm = ''; filter()">
+                <mat-icon>close</mat-icon>
+            </button>
+        }
+    </mat-form-field>
+
+    <div class="row">
+        <ng-container *ngFor="let item of projects_filtered">
+            <app-project [item]=item></app-project>
+        </ng-container>
+    </div>
+</div>
