@@ -1,19 +1,5 @@
 [
     {
-        "image": "https://raw.githubusercontent.com/AntoineSchmidt/a_star/main/icon.png",
-        "link": "https://antoineschmidt.github.io/a_star",
-        "title": "A* pathfinder",
-        "description": "Interactive live demo to find pathes through self drawn obstacles",
-        "tags": ["Javascript", "HTML", "CSS"] 
-    },
-    {
-        "image": "https://raw.githubusercontent.com/AntoineSchmidt/star_runner/main/media/player.png",
-        "link": "https://antoineschmidt.github.io/star_runner",
-        "title": "Star Runner game remake",
-        "description": "Flash-Game remake as pure JavaScript browser game",
-        "tags": ["Javascript", "JQuery", "HTML"] 
-    },
-    {
         "image": "https://raw.githubusercontent.com/AntoineSchmidt/lattice_boltzmann/main/icon.png",
         "link": "https://github.com/AntoineSchmidt/lattice_boltzmann",
         "title": "Lattice Boltzmann fluid simulation",
@@ -81,6 +67,20 @@
         "link": "https://antoineschmidt.github.io/web_diary",
         "title": "Diary Web-App",
         "description": "Web-App to save camera images with description and GPS location",
-        "tags": ["Vue", "JavaScript", "Camera", "GPS", "LocalDB", "Vue Router"] 
+        "tags": ["Vue", "JavaScript", "Camera", "GPS", "Indexed DB", "Vue Router", "Pinia", "Vuetify"] 
+    },
+    {
+        "image": "https://raw.githubusercontent.com/AntoineSchmidt/star_runner/main/media/player.png",
+        "link": "https://antoineschmidt.github.io/star_runner",
+        "title": "Star Runner game remake",
+        "description": "Flash-Game remake as pure JavaScript browser game",
+        "tags": ["Javascript", "JQuery", "HTML"] 
+    },
+    {
+        "image": "https://raw.githubusercontent.com/AntoineSchmidt/a_star/main/icon.png",
+        "link": "https://antoineschmidt.github.io/a_star",
+        "title": "A* pathfinder",
+        "description": "Interactive live demo to find pathes through self drawn obstacles",
+        "tags": ["Javascript", "HTML", "CSS"] 
     }
 ]
