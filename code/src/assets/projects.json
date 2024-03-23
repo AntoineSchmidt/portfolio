@@ -30,7 +30,7 @@
     {
         "image": "https://raw.githubusercontent.com/AntoineSchmidt/tooth_app/main/icon.png",
         "link": "https://github.com/AntoineSchmidt/tooth_app",
-        "title": "Brushed tooth detection",
+        "title": "Tooth brushing App",
         "description": "Android-App to detect the brushed tooth and surface",
         "tags": ["Java", "Android Studio", "Open CV", "Face detection", "SQLite"]
     },
@@ -45,7 +45,7 @@
         "image": "https://raw.githubusercontent.com/AntoineSchmidt/sokoban_planner/main/media/sokoban.gif",
         "link": "https://github.com/AntoineSchmidt/sokoban_planner",
         "title": "Sokoban game planner",
-        "description": "Applying policy-guided planning to sokoban",
+        "description": "Applying AI powered policy-guided planning to sokoban",
         "tags": ["Python", "Keras", "DQN", "PPO", "Monte Carlo", "CNN"] 
     },
     {
@@ -73,7 +73,7 @@
         "image": "https://raw.githubusercontent.com/AntoineSchmidt/star_runner/main/media/player.png",
         "link": "https://antoineschmidt.github.io/star_runner",
         "title": "Star Runner game remake",
-        "description": "Flash-Game remake as pure JavaScript browser game",
+        "description": "Flash-Game remake as pure JavaScript browser game from scratch",
         "tags": ["Javascript", "JQuery", "HTML"] 
     },
     {

@@ -5,6 +5,10 @@
     <div class="description">
       <h1>{{item!.title}}</h1>
       <h3>{{item!.description}}</h3>
-      <span>Tags: {{item!.tags.join(", ")}}</span>
+      <div class="tags">
+        <ng-container *ngFor="let tag of item!.tags">
+          <span class="tag">{{tag!.replace(" ", "&nbsp;")}} </span>
+        </ng-container>
+      </div>
     </div>
 </a>
